@@ -1,5 +1,6 @@
 // STEP 1
-// 1. Convert Identifiers to Camel Case Notation
+// Convert Identifiers to Camel Case Notation
+
 // let someMonth
 // function theMonth()
 // let currentMonth
@@ -7,8 +8,28 @@
 // let myLibraryFunction
 
 // STEP 2
+// Literal Expressions Examples
+
+// Numeric literal expression: 42
+// String literal expression: "Hello, world!"
+// Boolean literal expression: false
+// Null literal expression: null
 
 // STEP 3
+// Complex / Variable Expressions Examples
+// let name = "Roman";
+// let name2 = "Alyssa";
+// let balance = 100;
+// let debt = 25;
+
+// let complexExpression1 = 5 * 10;
+// console.log(complexExpression1); 
+// let complexExpression2 = 5 * (10 + 5);
+// console.log(complexExpression1);
+// let greeting1 = "Hello, " + name + "! Your balance is $" + (balance - debt);
+// console.log(greeting1);
+// let greeting2 = `Hello, ${name2}! Your balance is $${balance - debt}`;
+// console.log(greeting2); 
 
 // STEP 4
 
