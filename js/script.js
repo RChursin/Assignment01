@@ -32,8 +32,25 @@
 // console.log(greeting2); 
 
 // STEP 4
+// Declare Variables with Camel Casing and Hungarian Notation
+// let strFirstName;
+// let strLastName;
+// let strAddress;
+// let strCity;
+// let strState;
+// let strZipCode;
+// let intAge;
+// let strReferralSource;
+// let boolMayWeContactYou;
 
 // STEP 5
+// Declaring and Assigning Values to Variables
+// let strFirstName = "Roman"; // Direct assignment
+
+// let strLastName; // Declaration
+// strLastName = "Chursin"; // Declaration followed by assignment
+
+// let intAge = 36; // Declaration with initialization
 
 // STEP 6
 
