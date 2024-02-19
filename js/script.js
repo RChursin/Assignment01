@@ -53,35 +53,65 @@
 // let intAge = 36; // Declaration with initialization
 
 // STEP 6
+// let variable = 10 + "5";
+// console.log(variable); // "105" as a string
 
 // STEP 7
+// let resultOne = true + " is true"; // "true is true"
+// console.log(resultOne);
+// let resultTwo = 5 + false; // 5 because false is coerced to 0
+// console.log(resultTwo);
 
 // STEP 8
+// The string literal is valid as it correctly uses single quotes for the string and double quotes inside the string.
+// let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."';
+// console.log(someString);
+
+// The string literal is invalid as it uses single quotes for the string and single quotes inside the string.
+// let someString = 'Who once said, 'Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.'';  
+// console.log(someString);
 
 // STEP 9
+// let nullVariable = null;
+// console.log(nullVariable); // null
+
+// let undefinedVariable;
+// console.log(undefinedVariable); // undefined
 
 // STEP 10
+// console.log(typeof "Hello"); // string
+// console.log(typeof 42); // number
+// console.log(typeof true); // boolean
+// console.log(typeof {}); // object
+// console.log(typeof undefined); // undefined
 
-// STEP 11
+// STEP 11 - 14
+// let name = "Roman Chursin";
+// let course = "JavaScript";
+// alert("Hello " + name + ".\nWelcome to the " + course + " class!");
 
-// STEP 12
+// STEP 15 - 16
+// let name = prompt("Please enter your name:");
+// let course = prompt("What class are you taking?");
+// alert("Hello " + name + ".\nWelcome to the " + course + " class!");
 
-// STEP 13
+// STEP 17 - 20
+// let x = 10;
+// let y = 20;
+// console.log(x + y); // 30
 
-// STEP 14
+// x = 20;
+// x += 20;
+// console.log(x); // 40
 
-// STEP 15
+// x = 20;
+// x *= 5;
+// console.log(x); // 100
 
-// STEP 16
+// x = 20 % 3;
+// x /= 1;
+// console.log(x); // Displays the result after dividing the remainder of 20/3 by 1
 
-// STEP 17
-
-// STEP 18
-
-// STEP 19
-
-// STEP 20
-
-// STEP 21
-
-// STEP 22
+// STEP 21 - 22
+// console.log(5 < 10 && 3 === 3); // true
+// console.log(10 === 5 || 5 > 10); // false
