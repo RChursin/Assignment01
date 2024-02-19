@@ -67,10 +67,6 @@
 // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."';
 // console.log(someString);
 
-// The string literal is invalid as it uses single quotes for the string and single quotes inside the string.
-// let someString = 'Who once said, 'Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.'';  
-// console.log(someString);
-
 // STEP 9
 // let nullVariable = null;
 // console.log(nullVariable); // null
